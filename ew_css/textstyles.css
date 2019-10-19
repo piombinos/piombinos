@@ -1,0 +1,72 @@
+.Style1{font-family: 'GFSDidot-BoldItalic','GFS Didot';
+font-size: 43px; 
+font-weight:700; 
+font-style: italic;
+margin:0;
+color: #0432FF;
+text-shadow: 1.7678px 1.7678px 2.5px rgba(254,255,255,0.8);
+word-wrap: break-word;}
+.Style2{font-family: 'Helvetica',sans-serif;
+font-size: 18px; 
+margin:0;
+color: #C61A00;
+word-wrap: break-word;}
+.linkStyle_3{font-family: 'Helvetica',sans-serif;
+font-size: 18px; 
+margin:0;
+color: #0432FF;
+word-wrap: break-word;}
+a.linkStyle_3:visited{color:#0432FF; text-decoration:none;}
+a.linkStyle_3:hover{color:#FF2600; text-decoration:none;}
+.linkStyle_6{font-family: 'Helvetica',sans-serif;
+font-size: 18px; 
+color: #0432FF;
+text-decoration: none; 
+/*110#00F900#0432FF#FF2600*/
+word-wrap: break-word;}
+a.linkStyle_6:visited{color:#0432FF; text-decoration:none;}
+a.linkStyle_6:hover{color:#FF2600; text-decoration:none;}
+.Style9{font-family: 'Palatino-Bold','Palatino','Times New Roman',serif;
+font-size: 20px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+a.Style2:visited{color:#0432FF; text-decoration:none;}
+a.Style2:hover{color:#FF2600; text-decoration:none;}
+.Style12{font-family: 'GFSDidot-Bold','GFS Didot';
+font-size: 18px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+.Style13{font-family: 'GFSDidot-Italic','GFS Didot';
+font-size: 12px; 
+font-style: italic;
+margin:0;
+word-wrap: break-word;}
+.Style14{font-family: 'GFSDidot-Regular','GFS Didot';
+font-style: normal;
+word-wrap: break-word;}
+.Style15{font-family: 'GFSDidot-Regular','GFS Didot';
+font-size: 12px; 
+margin:0;
+word-wrap: break-word;}
+.Style16{font-family: 'GFSDidot-Italic','GFS Didot';
+font-style: italic;
+word-wrap: break-word;}
+.Style17{font-family: 'GFSDidot-Regular','GFS Didot';
+word-wrap: break-word;}
+.Style18{font-family: 'Times-Bold','Times',serif;
+font-size: 18px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+.Style19{font-family: 'Times-Roman','Times',serif;
+font-size: 18px; 
+margin:0;
+color: #0432FF;
+word-wrap: break-word;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
